@@ -23,7 +23,7 @@ mongoose
     console.log('🟢 DB Connected');
     //app.listen({ port: process.env.PORT }, () => {
     app.listen({ port: 3000 }, () => {
-      console.log(`🚗 Server running on port ${process.env.PORT}`);
+      console.log(`🚗 Server running on port `, port);
     });
   })
   .catch((err) => {
