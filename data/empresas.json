@@ -1,0 +1,7 @@
+[
+    {"rSoc": "Torneria Sanchez", "rubro": "Torneria", "cantEmple":  11, "empleados": []}, 
+    {"rSoc": "Agua y Gas", "rubro": "Plomeria", "cantEmple":  8, "empleados": []},
+    {"rSoc": "Gomez Hnos", "rubro": "Ingenieria", "cantEmple":  6, "empleados": []},
+    {"rSoc": "Juan y Pedro profes", "rubro": "docencia", "cantEmple":  7, "empleados": []},
+    {"rSoc": "GAM", "rubro": "Consultoria", "cantEmple":  5, "empleados": []}
+]

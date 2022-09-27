@@ -1,0 +1,12 @@
+[
+    {"nombre": "Juan", "prof": "Torneria", "edad":  51, "instru": "Secundario Completo"}, 
+    {"nombre": "Carlos", "prof": "Plomeria", "edad":  34, "instru": "Secundario Incompleto"},
+    {"nombre": "Alberto", "prof": "Torneria", "edad":  54, "instru": "Universitario Incompleto"},
+    {"nombre": "Diego", "prof": "Consultoria", "edad":  42, "instru": "Universitario Completo"},
+    {"nombre": "Jose", "prof": "Docencia", "edad":  32, "instru": "Secundario Completo"},
+    {"nombre": "Beltran", "prof": "Ingenieria", "edad":  65, "instru": "Universitario Completo"},
+    {"nombre": "Martin", "prof": "Docencia", "edad":  44, "instru": "Secundario Completo"},
+    {"nombre": "Bernardo", "prof": "Plomeria", "edad": 67 , "instru": "Secundario Incompleto"},
+    {"nombre": "Daniel", "prof": "Torneria", "edad":  34, "instru": "Universitario Incompleto"},
+    {"nombre": "Mario", "prof": "Ingenieria", "edad":  45, "instru": "Universitario Completo"}
+]
