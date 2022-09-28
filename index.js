@@ -1,7 +1,7 @@
 //const dotenv = require('dotenv').config();
 const express = require('express');
 const mongoose = require('mongoose');
-const router = require('./routes');
+const router = require('./src/routes/index');
 const app = express();
 const port = 3000;
 const fs = require('fs');
@@ -10,8 +10,8 @@ app.use(express.json());
 app.use(express.static('public'));
 
 //const products = require('../src/models/products.json')
-const employees = require('../data/empleados.json');
-const empre = require('../data/empresas.json');
+const employees = require('./data/empleados.json');
+const empre = require('./data/empresas.json');
 
 app.use(router);
 //mongoose.connect(process.env.DATABASE_URL)
