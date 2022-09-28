@@ -2,12 +2,12 @@
   "name": "express",
   "version": "1.0.0",
   "description": "Instalacion de Express",
-  "main": "./src/index.js",
+  "main": "index.js",
   "engines": {
     "node": "16.15"
   },
   "scripts": {
-    "start": "node ./src/index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Julian",
