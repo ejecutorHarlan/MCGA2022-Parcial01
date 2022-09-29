@@ -4,10 +4,10 @@
 
 ## Technologies
 
-The aplication is writen in javascript.
-The data was persisted in a non relational Mongo Atlas Database.
-The server runing in the backend is Node and I use Express as framework.
-To store environmental variables I use dotenv npm package to keep save this sensitive data.
+- The aplication is writen in javascript.
+- The data was persisted in a non relational Mongo Atlas Database.
+- The server runing in the backend is Node and I use Express as framework.
+- To store environmental variables I use dotenv npm package to keep save this sensitive data.
 
 ## Install
 
@@ -26,6 +26,6 @@ Some considerations for use
   "name": "<full name product>"
 }
 
+```
 
 This content was created for the first partial exam of the MCGA Course in the Ingeniería de Sistemas de Información career at Universidad Abierta Interamericana.
-```
