@@ -20,7 +20,7 @@ Some considerations for use
 - All the operations should be made using Postman (There is no web interface yet)
 - To obtain a single product by ID, it should be passed by url with this url format
 
-> \http://localhost:3000/api/products/<ProductID>\
+> http://localhost:3000/api/products/_ProductID_
 
 - To obtain a single product by name, the full name should be passed by body in Postman with the next format:
 
