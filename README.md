@@ -17,8 +17,11 @@
 
 Some considerations for use
 
-- All the operations should be made using Postman (There is no web interface)
-- To obtain a single product by ID, it should be passed by url
+- All the operations should be made using Postman (There is no web interface yet)
+- To obtain a single product by ID, it should be passed by url with this url format
+
+> http://localhost:3000/api/products/<Product ID>
+
 - To obtain a single product by name, the full name should be passed by body in Postman with the next format:
 
 ```javascript
@@ -27,5 +30,10 @@ Some considerations for use
 }
 
 ```
+
+## Use
+
+- This aplication can be use for create, read, update or delete (logical) articles from a non SQL database.
+-
 
 This content was created for the first partial exam of the MCGA Course in the Ingeniería de Sistemas de Información career at Universidad Abierta Interamericana.
