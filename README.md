@@ -34,6 +34,5 @@ Some considerations for use
 ## Use
 
 - This aplication can be use for create, read, update or delete (logical) articles from a non SQL database.
--
 
 This content was created for the first partial exam of the MCGA Course in the Ingeniería de Sistemas de Información career at Universidad Abierta Interamericana.
